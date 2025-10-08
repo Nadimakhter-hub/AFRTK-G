@@ -1,4 +1,4 @@
-#AFRTK-G
+AFRTK-G
 Adavance Face Recognition System using Tkinter GUI This project is built using Pyhton language some of the features are given below:-
 
 It has an attendance management system.
