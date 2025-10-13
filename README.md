@@ -8,7 +8,7 @@ Some of the features are given below:-
   It has a student management system.
   It has a face recognition system with in-time training data features.
   It also has a chatbot system for Help and queries.
-  It has a multiclass login feature where the students, teachers, and admin can login.
+  It has a multiclass login feature where students, teachers, and admin can log in.
   It has an automatic email sender feature used when a teacher has to login.
 Let's say if someone forgets his/her password, there is also a "forgot password" feature. The Students can register themselves by clicking on the register button.
 
